@@ -7,3 +7,5 @@ Provide JetBrains Mono fonts for the vercel-satori-png-service
 ---
 
 [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+
+![example.png](example.png)
